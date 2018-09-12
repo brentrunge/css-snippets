@@ -1,2 +1,2 @@
 # css-snippets
-Example of better underlined links in CSS
+This is Heydon Pickering's suggested CSS to do Improved Link Underlines from the book "Inclusive Design Patterns"
